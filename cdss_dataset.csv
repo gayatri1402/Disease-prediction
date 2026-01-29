@@ -1,0 +1,7 @@
+fever,cough,headache,vomiting,fatigue,short_breath,chest_pain,sore_throat,runny_nose,nausea,diarrhea,joint_pain,skin_rash,dizziness,age,gender,disease
+3,2,2,0,2,0,0,1,1,0,0,1,0,1,25,1,Flu
+3,1,2,2,3,0,0,0,0,1,1,2,0,2,30,0,Malaria
+1,2,0,0,1,0,0,2,3,0,0,0,0,0,22,1,Cold
+2,1,1,1,2,1,1,0,0,1,0,2,0,2,45,0,Dengue
+0,1,1,0,0,0,0,2,3,0,0,0,2,0,19,1,Allergy
+2,0,1,2,2,0,0,0,0,1,1,1,0,1,35,0,Typhoid
